@@ -85,6 +85,6 @@ Kelas abstrak Rekening: Kelas ini menggunakan abstraksi dengan mendeklarasikan m
 
 ## Demo Proyek
 <ul>
-  <li>Github: <a href="https://youtu.be/z7xEc9xec3Y">Github</a></li>
-  <li>Youtube: <a href="">Youtube</a></li>
+  <li>Github: <a href="">Github</a></li>
+  <li>Youtube: <a href="https://youtu.be/z7xEc9xec3Y">Youtube</a></li>
 </ul>
